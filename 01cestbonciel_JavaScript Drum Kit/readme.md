@@ -12,5 +12,6 @@
         <img src="javascript Drum kit_shyun.jpg" alt="drumkit_javascript">
     </p>
     <span>if I pushed alphabet a,s,d,f,g.., the captions will be changed and sound on.</span>
+    <a href="https://cestbonciel.github.io/soundDrum/">try it on!</a>
 </body>
 </html>
